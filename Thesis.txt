@@ -1,0 +1,10 @@
+/ started with divs under one common container div and the sub divs were named marker and 
+later on named uniquely adding one two three respectively and they were styles with different 
+bg colors which are rgb and with a margin 10px by auto to separate them
+we used the parent name marker to style the height and width by 25 by 200px respectively for dimensions
+later on added a padding to the container to add spaces at both the top and bottom 
+started styling the child markers using the rgb functions to make secondary colours which are 
+magenta cyan  and yellow and later on took a break but to start off with tertiary colors
+cyan is made by adding green to blue 
+magenta is made by adding red to blue
+yellow is made by adding red to `it `
