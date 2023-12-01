@@ -6,5 +6,5 @@ later on added a padding to the container to add spaces at both the top and bott
 started styling the child markers using the rgb functions to make secondary colours which are 
 magenta cyan  and yellow and later on took a break but to start off with tertiary colors
 cyan is made by adding green to blue 
-magenta is made by adding red to blue
+magenta is made by adding red to blue 
 yellow is made by adding red to `it 
