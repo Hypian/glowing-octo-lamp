@@ -8,3 +8,6 @@ magenta cyan  and yellow and later on took a break but to start off with tertiar
 cyan is made by adding green to blue 
 magenta is made by adding red to blue 
 yellow is made by adding red to it 
+after working on colors and merging them we looked at the hex method of creating a colors and the hsl(hue saturation and light)
+which have values of maximum 360,%,% respectively after this the linear gradient was introduced and it is a way to show
+how a 
