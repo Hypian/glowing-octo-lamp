@@ -12,3 +12,5 @@ after working on colors and merging them we looked at the hex method of creating
 which have values of maximum 360,%,% respectively after this the linear gradient was introduced and it is a way to show
 how a color might transition from one to another with illustration of the direction of direction using the deg attribute which can range from 
 0 degrees to 180 degrees
+the linear gradient also adds the percentage on which colors will fall by default which manually can be done by adding a percentage
+value after each color function
