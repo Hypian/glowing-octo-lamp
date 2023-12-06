@@ -15,3 +15,5 @@ how a color might transition from one to another with illustration of the direct
 the linear gradient also adds the percentage on which colors will fall by default which manually can be done by adding a percentage
 value after each color function
 today we tackled the opacity property in css that determines the opacity in css with a value of % respective to level of opacity
+it can also be done using the aplha value in order to make an opaque element an eg the rgb(a) is used to make an alpha value with the % regard
+
