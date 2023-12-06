@@ -14,3 +14,4 @@ how a color might transition from one to another with illustration of the direct
 0 degrees to 180 degrees
 the linear gradient also adds the percentage on which colors will fall by default which manually can be done by adding a percentage
 value after each color function
+today we tackled the opacity property in css that determines the opacity in css with a value of % respective to level of opacity
