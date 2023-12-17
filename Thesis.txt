@@ -18,4 +18,5 @@ we added two more divs
 today we tackled the opacity property in css that determines the opacity in css with a value of % respective to level of opacity
 it can also be done using the aplha value in order to make an opaque element an eg the rgb(a) is used to make an alpha value with the % regard
 after using opacity we tackled the box-shadow and how to use it to move a cetrain objects shadow and also learn how to make it blurry
-
+finally we looked at spread radius and how it works next to blur radius 
+and the project was put to an end
